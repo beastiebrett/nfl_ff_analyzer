@@ -1,0 +1,36 @@
+{
+  "bye_week": [
+    {
+      "team": {
+        "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+        "name": "Chargers",
+        "alias": "LAC",
+        "sr_id": "sr:competitor:4429"
+      }
+    },
+    {
+      "team": {
+        "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+        "name": "Eagles",
+        "alias": "PHI",
+        "sr_id": "sr:competitor:4428"
+      }
+    },
+    {
+      "team": {
+        "id": "c5a59daa-53a7-4de0-851f-fb12be893e9e",
+        "name": "Lions",
+        "alias": "DET",
+        "sr_id": "sr:competitor:4419"
+      }
+    },
+    {
+      "team": {
+        "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+        "name": "Titans",
+        "alias": "TEN",
+        "sr_id": "sr:competitor:367364"
+      }
+    }
+  ]
+}

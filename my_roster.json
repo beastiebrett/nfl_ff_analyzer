@@ -1,0 +1,62 @@
+{
+  "players": [
+    { "first_name": "Dak", "last_name": "Prescott", "team": "Cowboys" },
+    {
+      "first_name": "Devin",
+      "last_name": "Singletary",
+      "team": "New York Giants"
+    },
+    { "first_name": "Deandre", "last_name": "Swift", "team": "Chicago Bears" },
+    {
+      "first_name": "Bucky",
+      "last_name": "Irving",
+      "team": "Tampa Bay Buccaneers"
+    },
+    { "first_name": "Saquon", "last_name": "Barkley", "team": "your_team" },
+    {
+      "first_name": "Raheem",
+      "last_name": "Mostert",
+      "team": "Miami Dolphins"
+    },
+    {
+      "first_name": "Rhamondre",
+      "last_name": "Stevenson",
+      "team": "New England Patriots"
+    },
+    {
+      "first_name": "Stephon",
+      "last_name": "Diggs",
+      "team": "Houston Texans"
+    },
+    {
+      "first_name": "Jordan",
+      "last_name": "Addison",
+      "team": "Minnesota Vikings"
+    },
+    {
+      "first_name": "Malik",
+      "last_name": "Nabers",
+      "team": "New York Giants"
+    },
+    {
+      "first_name": "Deebo",
+      "last_name": "Samuel Sr.",
+      "team": "San Francisco 49ers"
+    },
+    {
+      "first_name": "Keenan",
+      "last_name": "Allen",
+      "team": "Chicago Bears"
+    },
+    {
+      "first_name": "Brock",
+      "last_name": "Bowers",
+      "team": "Las Vegas Raiders"
+    },
+    {
+      "first_name": "Sam",
+      "last_name": "LaPorta",
+      "team": "Detroit Lions"
+    }
+  ]
+}
