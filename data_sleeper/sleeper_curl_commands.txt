@@ -1,0 +1,9 @@
+LEAGUE_ID = 1115121531081822208
+Bretts_ID = 857459411474571264
+
+# get all league info for a user for a year
+curl "https://api.sleeper.app/v1/user/857459411474571264/leagues/nfl/2024"
+
+# get all rosters of a league
+curl "https://api.sleeper.app/v1/league/1115121531081822208/rosters"
+
